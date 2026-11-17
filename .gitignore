@@ -1,0 +1,19 @@
+
+# Arquivos temporarios do Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Copias de seguranca
+*_backup.ipynb
+*_Backup.ipynb
+requirements_antigo.txt
+README_antigo.md
+
+# Arquivos temporarios
+*.tmp
+~$*

@@ -1,0 +1,26 @@
+﻿fornecedor_id,nome,prazo_reposicao_dias,lote_minimo
+1,Fornecedor 01,14,20
+2,Fornecedor 02,3,50
+3,Fornecedor 03,8,100
+4,Fornecedor 04,8,50
+5,Fornecedor 05,13,20
+6,Fornecedor 06,4,50
+7,Fornecedor 07,8,10
+8,Fornecedor 08,4,10
+9,Fornecedor 09,13,50
+10,Fornecedor 10,11,100
+11,Fornecedor 11,9,100
+12,Fornecedor 12,8,50
+13,Fornecedor 13,4,10
+14,Fornecedor 14,14,100
+15,Fornecedor 15,11,20
+16,Fornecedor 16,7,20
+17,Fornecedor 17,8,100
+18,Fornecedor 18,12,50
+19,Fornecedor 19,12,50
+20,Fornecedor 20,8,20
+21,Fornecedor 21,6,100
+22,Fornecedor 22,11,20
+23,Fornecedor 23,11,50
+24,Fornecedor 24,10,100
+25,Fornecedor 25,3,50

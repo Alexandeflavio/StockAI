@@ -1,0 +1,501 @@
+﻿sku,descricao,categoria,custo_unitario,fornecedor_id
+SKU-0001,Produto 0001,Alimentos secos,119.09,14
+SKU-0002,Produto 0002,Limpeza,156.81,7
+SKU-0003,Produto 0003,Limpeza,84.43,6
+SKU-0004,Produto 0004,Higiene,48.37,9
+SKU-0005,Produto 0005,Higiene,46.42,15
+SKU-0006,Produto 0006,Embalagens,135.55,7
+SKU-0007,Produto 0007,Alimentos secos,147.9,23
+SKU-0008,Produto 0008,Limpeza,23.42,12
+SKU-0009,Produto 0009,Bebidas,16.65,22
+SKU-0010,Produto 0010,Alimentos secos,109.03,18
+SKU-0011,Produto 0011,Higiene,30.58,9
+SKU-0012,Produto 0012,Embalagens,149.32,6
+SKU-0013,Produto 0013,Limpeza,59.31,19
+SKU-0014,Produto 0014,Limpeza,30.18,9
+SKU-0015,Produto 0015,Limpeza,166.17,7
+SKU-0016,Produto 0016,Limpeza,33.97,24
+SKU-0017,Produto 0017,Higiene,54.83,13
+SKU-0018,Produto 0018,Alimentos secos,31.88,2
+SKU-0019,Produto 0019,Embalagens,25.21,13
+SKU-0020,Produto 0020,Higiene,8.7,12
+SKU-0021,Produto 0021,Higiene,14.69,22
+SKU-0022,Produto 0022,Bebidas,35.56,18
+SKU-0023,Produto 0023,Alimentos secos,14.34,5
+SKU-0024,Produto 0024,Embalagens,108.45,4
+SKU-0025,Produto 0025,Limpeza,124.13,16
+SKU-0026,Produto 0026,Limpeza,73.89,2
+SKU-0027,Produto 0027,Higiene,60.65,8
+SKU-0028,Produto 0028,Embalagens,93.29,4
+SKU-0029,Produto 0029,Higiene,158.13,1
+SKU-0030,Produto 0030,Higiene,153.95,23
+SKU-0031,Produto 0031,Higiene,12.61,3
+SKU-0032,Produto 0032,Bebidas,36.76,1
+SKU-0033,Produto 0033,Alimentos secos,46.43,24
+SKU-0034,Produto 0034,Higiene,48.64,5
+SKU-0035,Produto 0035,Embalagens,104.97,21
+SKU-0036,Produto 0036,Alimentos secos,77.85,1
+SKU-0037,Produto 0037,Embalagens,13.62,4
+SKU-0038,Produto 0038,Embalagens,70.38,3
+SKU-0039,Produto 0039,Bebidas,96.66,18
+SKU-0040,Produto 0040,Limpeza,22.79,16
+SKU-0041,Produto 0041,Alimentos secos,150.86,12
+SKU-0042,Produto 0042,Limpeza,14.09,7
+SKU-0043,Produto 0043,Limpeza,166.85,3
+SKU-0044,Produto 0044,Bebidas,22.34,15
+SKU-0045,Produto 0045,Alimentos secos,152.63,6
+SKU-0046,Produto 0046,Embalagens,162.96,15
+SKU-0047,Produto 0047,Higiene,176.42,18
+SKU-0048,Produto 0048,Embalagens,145.35,22
+SKU-0049,Produto 0049,Limpeza,141.41,13
+SKU-0050,Produto 0050,Limpeza,117.43,1
+SKU-0051,Produto 0051,Limpeza,141.32,8
+SKU-0052,Produto 0052,Alimentos secos,28.55,22
+SKU-0053,Produto 0053,Bebidas,98.81,14
+SKU-0054,Produto 0054,Higiene,94.99,16
+SKU-0055,Produto 0055,Higiene,155.08,12
+SKU-0056,Produto 0056,Alimentos secos,85.99,5
+SKU-0057,Produto 0057,Higiene,72.39,23
+SKU-0058,Produto 0058,Alimentos secos,116.92,20
+SKU-0059,Produto 0059,Limpeza,51.63,25
+SKU-0060,Produto 0060,Limpeza,29.46,22
+SKU-0061,Produto 0061,Embalagens,88.63,8
+SKU-0062,Produto 0062,Limpeza,77.96,7
+SKU-0063,Produto 0063,Bebidas,45.7,7
+SKU-0064,Produto 0064,Embalagens,69.31,23
+SKU-0065,Produto 0065,Higiene,69.12,14
+SKU-0066,Produto 0066,Bebidas,62.31,12
+SKU-0067,Produto 0067,Embalagens,71.41,25
+SKU-0068,Produto 0068,Bebidas,125.01,16
+SKU-0069,Produto 0069,Alimentos secos,56.95,23
+SKU-0070,Produto 0070,Higiene,171.05,25
+SKU-0071,Produto 0071,Limpeza,165.36,2
+SKU-0072,Produto 0072,Alimentos secos,89.16,10
+SKU-0073,Produto 0073,Higiene,62.46,19
+SKU-0074,Produto 0074,Alimentos secos,98.7,21
+SKU-0075,Produto 0075,Limpeza,153.5,4
+SKU-0076,Produto 0076,Higiene,119.2,8
+SKU-0077,Produto 0077,Bebidas,145.77,14
+SKU-0078,Produto 0078,Bebidas,98.23,20
+SKU-0079,Produto 0079,Higiene,115.76,3
+SKU-0080,Produto 0080,Limpeza,55.43,16
+SKU-0081,Produto 0081,Embalagens,133.61,8
+SKU-0082,Produto 0082,Higiene,40.42,6
+SKU-0083,Produto 0083,Alimentos secos,126.59,13
+SKU-0084,Produto 0084,Embalagens,155.63,11
+SKU-0085,Produto 0085,Limpeza,28.12,16
+SKU-0086,Produto 0086,Limpeza,112.52,8
+SKU-0087,Produto 0087,Alimentos secos,21.64,21
+SKU-0088,Produto 0088,Bebidas,132.0,2
+SKU-0089,Produto 0089,Limpeza,19.79,22
+SKU-0090,Produto 0090,Embalagens,168.79,1
+SKU-0091,Produto 0091,Higiene,29.05,19
+SKU-0092,Produto 0092,Embalagens,172.8,9
+SKU-0093,Produto 0093,Embalagens,145.15,10
+SKU-0094,Produto 0094,Bebidas,108.89,1
+SKU-0095,Produto 0095,Embalagens,141.96,18
+SKU-0096,Produto 0096,Bebidas,144.15,5
+SKU-0097,Produto 0097,Bebidas,170.55,17
+SKU-0098,Produto 0098,Limpeza,49.34,19
+SKU-0099,Produto 0099,Limpeza,108.26,22
+SKU-0100,Produto 0100,Alimentos secos,21.63,18
+SKU-0101,Produto 0101,Embalagens,112.83,8
+SKU-0102,Produto 0102,Alimentos secos,34.98,19
+SKU-0103,Produto 0103,Embalagens,103.87,21
+SKU-0104,Produto 0104,Alimentos secos,105.18,8
+SKU-0105,Produto 0105,Limpeza,86.55,4
+SKU-0106,Produto 0106,Limpeza,96.46,23
+SKU-0107,Produto 0107,Limpeza,138.69,4
+SKU-0108,Produto 0108,Limpeza,144.87,15
+SKU-0109,Produto 0109,Higiene,91.13,6
+SKU-0110,Produto 0110,Limpeza,109.93,4
+SKU-0111,Produto 0111,Bebidas,167.97,20
+SKU-0112,Produto 0112,Limpeza,25.95,4
+SKU-0113,Produto 0113,Higiene,25.49,17
+SKU-0114,Produto 0114,Higiene,20.35,18
+SKU-0115,Produto 0115,Higiene,120.13,2
+SKU-0116,Produto 0116,Higiene,78.26,5
+SKU-0117,Produto 0117,Alimentos secos,140.51,20
+SKU-0118,Produto 0118,Alimentos secos,122.47,13
+SKU-0119,Produto 0119,Bebidas,63.39,4
+SKU-0120,Produto 0120,Alimentos secos,162.21,25
+SKU-0121,Produto 0121,Higiene,138.44,7
+SKU-0122,Produto 0122,Limpeza,52.34,1
+SKU-0123,Produto 0123,Limpeza,68.73,24
+SKU-0124,Produto 0124,Higiene,60.03,1
+SKU-0125,Produto 0125,Embalagens,32.58,14
+SKU-0126,Produto 0126,Higiene,30.86,25
+SKU-0127,Produto 0127,Alimentos secos,168.82,15
+SKU-0128,Produto 0128,Limpeza,81.63,15
+SKU-0129,Produto 0129,Higiene,72.08,10
+SKU-0130,Produto 0130,Limpeza,132.69,4
+SKU-0131,Produto 0131,Higiene,101.77,15
+SKU-0132,Produto 0132,Higiene,168.82,23
+SKU-0133,Produto 0133,Alimentos secos,141.55,3
+SKU-0134,Produto 0134,Higiene,88.89,23
+SKU-0135,Produto 0135,Limpeza,70.86,11
+SKU-0136,Produto 0136,Bebidas,177.66,14
+SKU-0137,Produto 0137,Limpeza,130.61,5
+SKU-0138,Produto 0138,Alimentos secos,171.46,16
+SKU-0139,Produto 0139,Bebidas,25.73,5
+SKU-0140,Produto 0140,Higiene,153.84,7
+SKU-0141,Produto 0141,Embalagens,116.49,19
+SKU-0142,Produto 0142,Bebidas,26.34,2
+SKU-0143,Produto 0143,Bebidas,107.95,12
+SKU-0144,Produto 0144,Higiene,125.07,15
+SKU-0145,Produto 0145,Embalagens,7.15,4
+SKU-0146,Produto 0146,Embalagens,84.51,8
+SKU-0147,Produto 0147,Alimentos secos,149.44,9
+SKU-0148,Produto 0148,Bebidas,56.69,17
+SKU-0149,Produto 0149,Embalagens,85.25,25
+SKU-0150,Produto 0150,Alimentos secos,82.4,21
+SKU-0151,Produto 0151,Embalagens,57.84,5
+SKU-0152,Produto 0152,Bebidas,165.73,1
+SKU-0153,Produto 0153,Embalagens,141.73,2
+SKU-0154,Produto 0154,Bebidas,24.35,15
+SKU-0155,Produto 0155,Higiene,179.48,4
+SKU-0156,Produto 0156,Limpeza,158.86,6
+SKU-0157,Produto 0157,Alimentos secos,54.68,22
+SKU-0158,Produto 0158,Higiene,151.46,22
+SKU-0159,Produto 0159,Higiene,23.62,21
+SKU-0160,Produto 0160,Limpeza,179.84,7
+SKU-0161,Produto 0161,Embalagens,121.49,16
+SKU-0162,Produto 0162,Limpeza,118.77,16
+SKU-0163,Produto 0163,Higiene,20.83,5
+SKU-0164,Produto 0164,Higiene,161.98,14
+SKU-0165,Produto 0165,Higiene,10.07,14
+SKU-0166,Produto 0166,Embalagens,47.14,10
+SKU-0167,Produto 0167,Bebidas,30.03,19
+SKU-0168,Produto 0168,Alimentos secos,140.93,17
+SKU-0169,Produto 0169,Bebidas,39.69,14
+SKU-0170,Produto 0170,Alimentos secos,164.36,19
+SKU-0171,Produto 0171,Alimentos secos,119.85,20
+SKU-0172,Produto 0172,Alimentos secos,11.33,15
+SKU-0173,Produto 0173,Limpeza,5.95,7
+SKU-0174,Produto 0174,Limpeza,14.04,19
+SKU-0175,Produto 0175,Limpeza,111.04,18
+SKU-0176,Produto 0176,Higiene,145.26,25
+SKU-0177,Produto 0177,Limpeza,46.75,4
+SKU-0178,Produto 0178,Alimentos secos,153.65,11
+SKU-0179,Produto 0179,Embalagens,15.02,24
+SKU-0180,Produto 0180,Higiene,145.17,13
+SKU-0181,Produto 0181,Embalagens,167.36,24
+SKU-0182,Produto 0182,Alimentos secos,140.12,1
+SKU-0183,Produto 0183,Higiene,127.17,1
+SKU-0184,Produto 0184,Limpeza,151.65,20
+SKU-0185,Produto 0185,Higiene,12.03,9
+SKU-0186,Produto 0186,Higiene,40.31,14
+SKU-0187,Produto 0187,Alimentos secos,26.86,11
+SKU-0188,Produto 0188,Bebidas,93.29,11
+SKU-0189,Produto 0189,Bebidas,135.41,24
+SKU-0190,Produto 0190,Bebidas,115.25,3
+SKU-0191,Produto 0191,Limpeza,153.95,20
+SKU-0192,Produto 0192,Limpeza,32.16,23
+SKU-0193,Produto 0193,Limpeza,133.56,17
+SKU-0194,Produto 0194,Bebidas,38.78,10
+SKU-0195,Produto 0195,Embalagens,52.38,5
+SKU-0196,Produto 0196,Alimentos secos,129.23,18
+SKU-0197,Produto 0197,Bebidas,176.54,12
+SKU-0198,Produto 0198,Alimentos secos,112.02,4
+SKU-0199,Produto 0199,Bebidas,14.54,9
+SKU-0200,Produto 0200,Embalagens,112.85,25
+SKU-0201,Produto 0201,Bebidas,12.41,7
+SKU-0202,Produto 0202,Embalagens,159.73,5
+SKU-0203,Produto 0203,Higiene,129.18,18
+SKU-0204,Produto 0204,Limpeza,35.3,5
+SKU-0205,Produto 0205,Higiene,21.05,23
+SKU-0206,Produto 0206,Bebidas,37.12,22
+SKU-0207,Produto 0207,Limpeza,176.5,25
+SKU-0208,Produto 0208,Embalagens,85.25,23
+SKU-0209,Produto 0209,Bebidas,142.21,7
+SKU-0210,Produto 0210,Limpeza,116.37,6
+SKU-0211,Produto 0211,Bebidas,105.17,9
+SKU-0212,Produto 0212,Limpeza,30.4,12
+SKU-0213,Produto 0213,Limpeza,170.55,22
+SKU-0214,Produto 0214,Higiene,57.73,19
+SKU-0215,Produto 0215,Limpeza,106.15,17
+SKU-0216,Produto 0216,Bebidas,127.46,22
+SKU-0217,Produto 0217,Alimentos secos,118.62,17
+SKU-0218,Produto 0218,Alimentos secos,169.6,10
+SKU-0219,Produto 0219,Higiene,30.98,11
+SKU-0220,Produto 0220,Embalagens,93.96,13
+SKU-0221,Produto 0221,Alimentos secos,75.71,3
+SKU-0222,Produto 0222,Higiene,87.98,19
+SKU-0223,Produto 0223,Limpeza,25.86,17
+SKU-0224,Produto 0224,Bebidas,28.47,19
+SKU-0225,Produto 0225,Limpeza,53.66,14
+SKU-0226,Produto 0226,Bebidas,58.32,20
+SKU-0227,Produto 0227,Embalagens,79.88,24
+SKU-0228,Produto 0228,Higiene,111.92,15
+SKU-0229,Produto 0229,Higiene,116.06,12
+SKU-0230,Produto 0230,Alimentos secos,77.07,3
+SKU-0231,Produto 0231,Higiene,76.54,20
+SKU-0232,Produto 0232,Embalagens,43.08,23
+SKU-0233,Produto 0233,Alimentos secos,107.95,18
+SKU-0234,Produto 0234,Limpeza,60.48,22
+SKU-0235,Produto 0235,Higiene,11.31,22
+SKU-0236,Produto 0236,Limpeza,78.22,20
+SKU-0237,Produto 0237,Limpeza,87.97,13
+SKU-0238,Produto 0238,Higiene,44.48,3
+SKU-0239,Produto 0239,Bebidas,105.18,1
+SKU-0240,Produto 0240,Limpeza,104.01,6
+SKU-0241,Produto 0241,Alimentos secos,127.85,11
+SKU-0242,Produto 0242,Higiene,118.39,19
+SKU-0243,Produto 0243,Alimentos secos,119.18,12
+SKU-0244,Produto 0244,Limpeza,60.34,1
+SKU-0245,Produto 0245,Limpeza,142.8,6
+SKU-0246,Produto 0246,Alimentos secos,101.1,25
+SKU-0247,Produto 0247,Limpeza,80.5,25
+SKU-0248,Produto 0248,Higiene,114.55,10
+SKU-0249,Produto 0249,Limpeza,68.12,21
+SKU-0250,Produto 0250,Alimentos secos,94.73,18
+SKU-0251,Produto 0251,Alimentos secos,133.92,24
+SKU-0252,Produto 0252,Higiene,160.12,23
+SKU-0253,Produto 0253,Alimentos secos,166.19,16
+SKU-0254,Produto 0254,Bebidas,93.14,10
+SKU-0255,Produto 0255,Limpeza,96.05,16
+SKU-0256,Produto 0256,Alimentos secos,144.98,8
+SKU-0257,Produto 0257,Limpeza,60.03,9
+SKU-0258,Produto 0258,Alimentos secos,151.54,16
+SKU-0259,Produto 0259,Alimentos secos,91.47,15
+SKU-0260,Produto 0260,Higiene,25.27,15
+SKU-0261,Produto 0261,Limpeza,17.61,10
+SKU-0262,Produto 0262,Alimentos secos,152.35,11
+SKU-0263,Produto 0263,Bebidas,14.72,1
+SKU-0264,Produto 0264,Embalagens,54.11,16
+SKU-0265,Produto 0265,Embalagens,63.47,15
+SKU-0266,Produto 0266,Higiene,35.27,24
+SKU-0267,Produto 0267,Higiene,59.93,13
+SKU-0268,Produto 0268,Bebidas,134.97,12
+SKU-0269,Produto 0269,Limpeza,7.57,2
+SKU-0270,Produto 0270,Higiene,149.76,5
+SKU-0271,Produto 0271,Bebidas,154.9,9
+SKU-0272,Produto 0272,Alimentos secos,70.15,10
+SKU-0273,Produto 0273,Alimentos secos,31.88,10
+SKU-0274,Produto 0274,Embalagens,110.15,10
+SKU-0275,Produto 0275,Higiene,25.94,20
+SKU-0276,Produto 0276,Higiene,68.86,4
+SKU-0277,Produto 0277,Higiene,172.73,9
+SKU-0278,Produto 0278,Limpeza,179.21,5
+SKU-0279,Produto 0279,Alimentos secos,140.12,8
+SKU-0280,Produto 0280,Alimentos secos,59.42,18
+SKU-0281,Produto 0281,Bebidas,125.34,2
+SKU-0282,Produto 0282,Higiene,128.45,9
+SKU-0283,Produto 0283,Limpeza,72.87,1
+SKU-0284,Produto 0284,Higiene,117.16,24
+SKU-0285,Produto 0285,Higiene,6.88,19
+SKU-0286,Produto 0286,Embalagens,41.59,7
+SKU-0287,Produto 0287,Alimentos secos,96.89,5
+SKU-0288,Produto 0288,Higiene,33.66,3
+SKU-0289,Produto 0289,Higiene,34.03,12
+SKU-0290,Produto 0290,Higiene,151.35,19
+SKU-0291,Produto 0291,Embalagens,178.1,15
+SKU-0292,Produto 0292,Bebidas,102.29,23
+SKU-0293,Produto 0293,Embalagens,151.84,9
+SKU-0294,Produto 0294,Bebidas,178.31,7
+SKU-0295,Produto 0295,Higiene,29.78,12
+SKU-0296,Produto 0296,Higiene,83.44,6
+SKU-0297,Produto 0297,Embalagens,73.7,25
+SKU-0298,Produto 0298,Higiene,19.01,5
+SKU-0299,Produto 0299,Bebidas,137.18,12
+SKU-0300,Produto 0300,Alimentos secos,80.91,14
+SKU-0301,Produto 0301,Bebidas,87.13,2
+SKU-0302,Produto 0302,Embalagens,31.37,12
+SKU-0303,Produto 0303,Alimentos secos,36.66,12
+SKU-0304,Produto 0304,Embalagens,163.74,7
+SKU-0305,Produto 0305,Higiene,12.81,4
+SKU-0306,Produto 0306,Alimentos secos,45.75,2
+SKU-0307,Produto 0307,Bebidas,56.11,1
+SKU-0308,Produto 0308,Higiene,90.78,13
+SKU-0309,Produto 0309,Bebidas,107.63,3
+SKU-0310,Produto 0310,Alimentos secos,91.33,24
+SKU-0311,Produto 0311,Limpeza,19.72,7
+SKU-0312,Produto 0312,Limpeza,47.64,17
+SKU-0313,Produto 0313,Alimentos secos,152.63,17
+SKU-0314,Produto 0314,Bebidas,116.58,13
+SKU-0315,Produto 0315,Bebidas,118.6,23
+SKU-0316,Produto 0316,Limpeza,122.29,3
+SKU-0317,Produto 0317,Limpeza,138.51,6
+SKU-0318,Produto 0318,Limpeza,15.17,7
+SKU-0319,Produto 0319,Embalagens,69.16,4
+SKU-0320,Produto 0320,Limpeza,99.42,8
+SKU-0321,Produto 0321,Bebidas,64.23,8
+SKU-0322,Produto 0322,Alimentos secos,152.78,20
+SKU-0323,Produto 0323,Limpeza,89.45,8
+SKU-0324,Produto 0324,Embalagens,139.51,22
+SKU-0325,Produto 0325,Embalagens,154.1,20
+SKU-0326,Produto 0326,Bebidas,93.34,23
+SKU-0327,Produto 0327,Bebidas,164.17,3
+SKU-0328,Produto 0328,Alimentos secos,107.75,25
+SKU-0329,Produto 0329,Alimentos secos,153.8,16
+SKU-0330,Produto 0330,Higiene,64.6,25
+SKU-0331,Produto 0331,Higiene,92.29,9
+SKU-0332,Produto 0332,Bebidas,98.0,24
+SKU-0333,Produto 0333,Bebidas,23.37,15
+SKU-0334,Produto 0334,Embalagens,74.75,2
+SKU-0335,Produto 0335,Higiene,165.53,11
+SKU-0336,Produto 0336,Embalagens,115.4,4
+SKU-0337,Produto 0337,Embalagens,36.06,24
+SKU-0338,Produto 0338,Bebidas,64.3,8
+SKU-0339,Produto 0339,Bebidas,38.53,6
+SKU-0340,Produto 0340,Embalagens,9.34,14
+SKU-0341,Produto 0341,Limpeza,167.31,11
+SKU-0342,Produto 0342,Bebidas,83.44,3
+SKU-0343,Produto 0343,Limpeza,58.82,21
+SKU-0344,Produto 0344,Higiene,109.73,22
+SKU-0345,Produto 0345,Embalagens,6.28,19
+SKU-0346,Produto 0346,Bebidas,53.65,16
+SKU-0347,Produto 0347,Embalagens,128.03,11
+SKU-0348,Produto 0348,Embalagens,115.91,14
+SKU-0349,Produto 0349,Alimentos secos,176.82,14
+SKU-0350,Produto 0350,Alimentos secos,113.56,5
+SKU-0351,Produto 0351,Higiene,88.56,3
+SKU-0352,Produto 0352,Alimentos secos,138.25,7
+SKU-0353,Produto 0353,Bebidas,163.08,12
+SKU-0354,Produto 0354,Higiene,131.12,5
+SKU-0355,Produto 0355,Embalagens,173.56,3
+SKU-0356,Produto 0356,Embalagens,141.85,22
+SKU-0357,Produto 0357,Alimentos secos,156.69,10
+SKU-0358,Produto 0358,Embalagens,24.97,15
+SKU-0359,Produto 0359,Alimentos secos,133.17,14
+SKU-0360,Produto 0360,Limpeza,82.02,19
+SKU-0361,Produto 0361,Embalagens,101.79,19
+SKU-0362,Produto 0362,Embalagens,119.47,8
+SKU-0363,Produto 0363,Bebidas,174.72,22
+SKU-0364,Produto 0364,Embalagens,177.3,10
+SKU-0365,Produto 0365,Alimentos secos,55.44,21
+SKU-0366,Produto 0366,Higiene,133.41,11
+SKU-0367,Produto 0367,Higiene,136.25,3
+SKU-0368,Produto 0368,Bebidas,65.64,20
+SKU-0369,Produto 0369,Alimentos secos,26.68,1
+SKU-0370,Produto 0370,Limpeza,12.17,20
+SKU-0371,Produto 0371,Bebidas,141.04,2
+SKU-0372,Produto 0372,Limpeza,90.7,6
+SKU-0373,Produto 0373,Higiene,177.47,16
+SKU-0374,Produto 0374,Bebidas,86.37,24
+SKU-0375,Produto 0375,Embalagens,176.14,11
+SKU-0376,Produto 0376,Alimentos secos,77.03,4
+SKU-0377,Produto 0377,Limpeza,143.89,6
+SKU-0378,Produto 0378,Limpeza,19.84,23
+SKU-0379,Produto 0379,Bebidas,102.21,19
+SKU-0380,Produto 0380,Bebidas,145.36,3
+SKU-0381,Produto 0381,Alimentos secos,166.82,10
+SKU-0382,Produto 0382,Embalagens,148.95,7
+SKU-0383,Produto 0383,Embalagens,11.47,5
+SKU-0384,Produto 0384,Bebidas,70.22,22
+SKU-0385,Produto 0385,Alimentos secos,13.52,16
+SKU-0386,Produto 0386,Alimentos secos,24.12,5
+SKU-0387,Produto 0387,Alimentos secos,123.18,17
+SKU-0388,Produto 0388,Embalagens,129.82,11
+SKU-0389,Produto 0389,Embalagens,140.4,2
+SKU-0390,Produto 0390,Alimentos secos,156.45,12
+SKU-0391,Produto 0391,Limpeza,134.4,5
+SKU-0392,Produto 0392,Alimentos secos,145.15,7
+SKU-0393,Produto 0393,Bebidas,13.57,22
+SKU-0394,Produto 0394,Higiene,46.04,18
+SKU-0395,Produto 0395,Limpeza,113.83,4
+SKU-0396,Produto 0396,Embalagens,155.17,22
+SKU-0397,Produto 0397,Alimentos secos,5.79,15
+SKU-0398,Produto 0398,Alimentos secos,95.06,22
+SKU-0399,Produto 0399,Bebidas,123.53,19
+SKU-0400,Produto 0400,Bebidas,10.18,9
+SKU-0401,Produto 0401,Embalagens,75.24,14
+SKU-0402,Produto 0402,Limpeza,161.74,14
+SKU-0403,Produto 0403,Bebidas,122.53,18
+SKU-0404,Produto 0404,Embalagens,46.59,7
+SKU-0405,Produto 0405,Higiene,154.24,9
+SKU-0406,Produto 0406,Higiene,65.91,7
+SKU-0407,Produto 0407,Higiene,154.34,8
+SKU-0408,Produto 0408,Alimentos secos,57.32,5
+SKU-0409,Produto 0409,Embalagens,108.31,1
+SKU-0410,Produto 0410,Alimentos secos,74.46,24
+SKU-0411,Produto 0411,Alimentos secos,53.09,2
+SKU-0412,Produto 0412,Bebidas,160.15,23
+SKU-0413,Produto 0413,Bebidas,37.83,1
+SKU-0414,Produto 0414,Alimentos secos,19.84,20
+SKU-0415,Produto 0415,Alimentos secos,64.84,9
+SKU-0416,Produto 0416,Limpeza,130.59,13
+SKU-0417,Produto 0417,Embalagens,146.3,8
+SKU-0418,Produto 0418,Alimentos secos,179.78,13
+SKU-0419,Produto 0419,Bebidas,56.86,12
+SKU-0420,Produto 0420,Higiene,76.39,14
+SKU-0421,Produto 0421,Embalagens,28.94,10
+SKU-0422,Produto 0422,Limpeza,105.6,14
+SKU-0423,Produto 0423,Limpeza,179.58,21
+SKU-0424,Produto 0424,Higiene,127.65,11
+SKU-0425,Produto 0425,Higiene,109.16,10
+SKU-0426,Produto 0426,Alimentos secos,73.66,4
+SKU-0427,Produto 0427,Embalagens,165.18,9
+SKU-0428,Produto 0428,Embalagens,91.96,4
+SKU-0429,Produto 0429,Alimentos secos,28.51,5
+SKU-0430,Produto 0430,Limpeza,68.94,24
+SKU-0431,Produto 0431,Alimentos secos,16.75,3
+SKU-0432,Produto 0432,Limpeza,40.35,13
+SKU-0433,Produto 0433,Embalagens,8.09,21
+SKU-0434,Produto 0434,Alimentos secos,84.32,24
+SKU-0435,Produto 0435,Higiene,116.04,4
+SKU-0436,Produto 0436,Alimentos secos,65.08,5
+SKU-0437,Produto 0437,Higiene,78.57,10
+SKU-0438,Produto 0438,Embalagens,172.86,14
+SKU-0439,Produto 0439,Alimentos secos,136.59,24
+SKU-0440,Produto 0440,Bebidas,99.65,6
+SKU-0441,Produto 0441,Embalagens,54.79,5
+SKU-0442,Produto 0442,Bebidas,161.97,7
+SKU-0443,Produto 0443,Alimentos secos,46.14,22
+SKU-0444,Produto 0444,Higiene,61.93,1
+SKU-0445,Produto 0445,Higiene,164.09,10
+SKU-0446,Produto 0446,Limpeza,97.67,3
+SKU-0447,Produto 0447,Bebidas,134.91,4
+SKU-0448,Produto 0448,Embalagens,108.38,23
+SKU-0449,Produto 0449,Higiene,119.35,1
+SKU-0450,Produto 0450,Bebidas,57.39,9
+SKU-0451,Produto 0451,Embalagens,47.24,23
+SKU-0452,Produto 0452,Embalagens,61.44,16
+SKU-0453,Produto 0453,Higiene,32.2,2
+SKU-0454,Produto 0454,Alimentos secos,158.01,12
+SKU-0455,Produto 0455,Higiene,54.57,25
+SKU-0456,Produto 0456,Higiene,103.26,11
+SKU-0457,Produto 0457,Alimentos secos,143.6,14
+SKU-0458,Produto 0458,Limpeza,142.17,14
+SKU-0459,Produto 0459,Embalagens,81.72,17
+SKU-0460,Produto 0460,Alimentos secos,88.35,5
+SKU-0461,Produto 0461,Limpeza,179.07,21
+SKU-0462,Produto 0462,Alimentos secos,123.05,25
+SKU-0463,Produto 0463,Limpeza,147.56,4
+SKU-0464,Produto 0464,Higiene,162.95,21
+SKU-0465,Produto 0465,Alimentos secos,142.83,21
+SKU-0466,Produto 0466,Embalagens,37.41,19
+SKU-0467,Produto 0467,Alimentos secos,103.38,10
+SKU-0468,Produto 0468,Higiene,22.83,12
+SKU-0469,Produto 0469,Alimentos secos,119.26,21
+SKU-0470,Produto 0470,Embalagens,172.19,4
+SKU-0471,Produto 0471,Limpeza,94.73,21
+SKU-0472,Produto 0472,Embalagens,80.77,24
+SKU-0473,Produto 0473,Higiene,11.27,18
+SKU-0474,Produto 0474,Higiene,172.96,9
+SKU-0475,Produto 0475,Limpeza,23.03,14
+SKU-0476,Produto 0476,Limpeza,12.19,2
+SKU-0477,Produto 0477,Embalagens,48.06,24
+SKU-0478,Produto 0478,Alimentos secos,16.47,9
+SKU-0479,Produto 0479,Limpeza,84.65,2
+SKU-0480,Produto 0480,Alimentos secos,95.32,20
+SKU-0481,Produto 0481,Bebidas,59.7,17
+SKU-0482,Produto 0482,Embalagens,13.92,16
+SKU-0483,Produto 0483,Bebidas,24.53,2
+SKU-0484,Produto 0484,Limpeza,72.29,19
+SKU-0485,Produto 0485,Higiene,15.59,16
+SKU-0486,Produto 0486,Bebidas,127.18,20
+SKU-0487,Produto 0487,Bebidas,41.23,21
+SKU-0488,Produto 0488,Higiene,57.86,6
+SKU-0489,Produto 0489,Limpeza,73.97,6
+SKU-0490,Produto 0490,Limpeza,77.91,24
+SKU-0491,Produto 0491,Embalagens,5.29,14
+SKU-0492,Produto 0492,Embalagens,24.61,11
+SKU-0493,Produto 0493,Limpeza,155.98,8
+SKU-0494,Produto 0494,Limpeza,5.22,16
+SKU-0495,Produto 0495,Bebidas,93.93,19
+SKU-0496,Produto 0496,Higiene,90.66,1
+SKU-0497,Produto 0497,Alimentos secos,63.29,14
+SKU-0498,Produto 0498,Bebidas,80.48,25
+SKU-0499,Produto 0499,Embalagens,141.6,8
+SKU-0500,Produto 0500,Higiene,152.21,8
